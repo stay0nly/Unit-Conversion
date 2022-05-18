@@ -82,3 +82,24 @@ body {
     text-align: center;
     color: #4E4E4E;
 }
+
+footer {
+    text-align: center;
+    padding: 20px 0;
+}
+
+footer p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.fa-github {
+    font-size: 20px;
+    transition: transform 0.3s ease-in-out;
+    color: #fff;
+  }
+  
+.fa-github:hover {
+    transform: rotate(360deg) scale(1.2);
+}
